@@ -1,0 +1,22 @@
+{
+  "name": "western-theme",
+  "icon": "images/western.png",
+  "displayName": "Western theme",
+  "description": "Color theme that add Western style. I tryed disable very bright colors. it's not a latest version, so shall be better in a future  ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.140.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Western theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Western theme-color-theme.json"
+      }
+    ]
+  }
+}

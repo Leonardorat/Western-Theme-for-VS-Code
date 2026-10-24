@@ -1,0 +1,15 @@
+.vscode/**
+.vscode-test/**
+.git/**
+.github/**
+node_modules/**
+package-lock.json
+test.js
+test/**
+tests/**
+screenshots/**
+*.vsix
+*.log
+.env
+.env.*
+.DS_Store
