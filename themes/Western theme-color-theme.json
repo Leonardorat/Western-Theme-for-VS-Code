@@ -2,9 +2,16 @@
 	"name": "Western theme",
 	"colors": {
 		"editor.background": "#201f1f",
-		"editor.foreground": "#b3caca",
+		"editor.foreground": "#cbdfdf",
 		"activityBarBadge.background": "#a75555",
-		"sideBarTitle.foreground": "#b34759"
+		"sideBarTitle.foreground": "#b34759",
+		"terminal.background": "#0f0f0f",
+		"terminal.foreground": "#cccccc",
+		"terminalOverviewRuler.cursorForeground": "#f1dadacc",
+		"terminal.selectionBackground": "#cca0a0",
+		"statusBar.background": "#201f1f",
+		"statusBar.foreground": "#cbdfdf",
+		"statusBar.border": "#ff0000",
 	},
 	"tokenColors": [
 		{

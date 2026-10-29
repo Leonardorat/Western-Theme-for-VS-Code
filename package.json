@@ -3,6 +3,7 @@
   "icon": "images/western.png",
   "displayName": "Western theme",
   "description": "Color theme that add Western style. I tryed disable very bright colors. it's not a latest version, so shall be better in a future  ",
+  "publisher": "Leonardorat",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.140.0"
