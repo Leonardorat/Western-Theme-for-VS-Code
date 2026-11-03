@@ -4,7 +4,7 @@
   "displayName": "Western theme 2",
   "description": "Color theme that add Western style. I tryed disable very bright colors. it's not a latest version, so shall be better in a future  ",
   "publisher": "Leonardorat",
-  "version": "0.0.2",
+  "version": "0.1",
   "engines": {
     "vscode": "^1.140.0"
   },
