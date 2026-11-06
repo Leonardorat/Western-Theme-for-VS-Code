@@ -1,6 +1,6 @@
 # western-theme README
 
-## 0.1
+## 0.2
 ### test describtion(work is still in progress)
 
 This extension aims to:
